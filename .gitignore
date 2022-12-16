@@ -1,0 +1,22 @@
+Python
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Jetbrains IDE
+.idea/
+
+# MacOS Files
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Emdat Dataset
+data/raw/disasters/emdat-22-12-16.xlsx
+
+# Processed Datasets (since this also includes emdat)
+data/processed/*
