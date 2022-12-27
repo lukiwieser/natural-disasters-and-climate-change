@@ -16,8 +16,8 @@ __pycache__/
 **/.LSOverride
 
 # Emdat Dataset
-data/raw/disasters/emdat-22-12-16.xlsx
-data/raw/natural-disasters/*
+data/raw/disasters/emdat_public_2022_12_22_full.xlsx
+data/raw/disaster/*
 
 # Processed Datasets (since this also includes emdat)
 data/processed/*
