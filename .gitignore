@@ -17,6 +17,7 @@ __pycache__/
 
 # Emdat Dataset
 data/raw/disasters/emdat-22-12-16.xlsx
+data/raw/natural-disasters/*
 
 # Processed Datasets (since this also includes emdat)
 data/processed/*
