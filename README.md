@@ -1,5 +1,9 @@
-# DOPP Assignment 2
+# Deaths by Natural Disasters and Climate Change
 
-The main-notebook is in the file `main.ipynb`.
+*Sebastian Fürndraht, Hannes Rokitte, Paul Schmitt, Lukas Wieser · 24.01.2023*
 
-This project was created using Python 3.9.7.
+We want to explore the deaths by natural disasters, and possible relations to climate change.
+
+Our whole process is documented in the juypter notebook [main.ipynb](main.ipynb).
+
+
