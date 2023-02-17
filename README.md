@@ -11,8 +11,10 @@ Our whole process is documented in the jupyter notebook [main.ipynb](main.ipynb)
 ![disasters-over-time](/docs/disasters-over-time.png)
 
 Here we can see the occurrences and deaths of disasters over time for each decade.
-The number of disasters is rising. However this is likely subject to a reporting bias, since like just more disasters are reported.
-The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur.
+
+The number of disasters is rising. However, this is likely subject to a reporting bias, since like just more disasters are reported.
+
+The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur. However this could also be likely due to humans being better prepared for natural disasters, and not diasters being less severe.
 
 ### Type of disaster
 
