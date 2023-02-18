@@ -18,7 +18,7 @@ The number of disasters is rising. However, this is likely subject to a reportin
 
 ![disasters-by-type](/docs/deaths-by-type.png)
 
-Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest.
+Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest. A possible bias here could be that deaths by droughts and floods can be strongly dependent on political decisions, so floods & droughts are not inherently more severe on their own.
 
 ### Disasters by region
 
