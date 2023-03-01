@@ -26,6 +26,8 @@ Different types of disasters kill different amounts of people. Droughts and floo
 
 Asia has by far the most deaths by disasters, total deaths as well as deaths by population.
 
+We refer to the deaths per population as relative deaths.
+
 ### Disasters by country
 
 ![deaths-and-type-by-country](/docs/deaths-and-type-by-country.png)
