@@ -62,7 +62,7 @@ So here more research is necessary to reach substantial conclusions.
 
 Since 1900 the number of recorded disasters rises, and the number of deaths by disaster is sinking.
 
-When looking at the deaths from natural disasters there is a strong difference between different types, and three is also a difference between different regions and countries.
+When looking at the deaths from natural disasters there is a strong difference between different disaster types, and between different regions and countries.
 
 There seems to be a correlation between some natural disaster types and rising temperatures, but further research is necessary for this area.
 
