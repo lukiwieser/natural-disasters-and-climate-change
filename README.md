@@ -32,6 +32,8 @@ We refer to the deaths per population as relative deaths.
 
 ![deaths-and-type-by-country](/docs/deaths-and-type-by-country.png)
 
+Here we look at a small selection of countries that are different to each other e.g. in their region or how developed they are.
+
 Usually, droughts are the deadliest disasters. However, France has nearly no deaths by droughts, but here heatwaves are the most deadly.
 
 ### Temperature over time
