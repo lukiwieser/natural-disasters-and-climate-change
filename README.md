@@ -42,7 +42,7 @@ Usually, droughts are the deadliest disasters. However, France has nearly no dea
 
 The temperature rises in all regions, with Europe being the most extreme.
 
-We use temperature anomalies as a measurement for temperature since they are supposedly more representative. Temperature anomalies are simply the temperature, but corrected by a baseline, in our case by the Jan 1951 - Dec 1980 average temperature. 
+We use temperature anomalies as a measurement for temperature since they are supposedly more representative. Temperature anomalies are simply the temperature, but corrected by a baseline, in our case by the average temperature from Jan 1951 to Dec 1980. 
 Additionally, we smoothed the temperature with lowess.
 
 ### Correlation of natural disasters and temperature
