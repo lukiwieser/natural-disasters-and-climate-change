@@ -49,10 +49,10 @@ Additionally, we smoothed the temperature with lowess.
 
 ![temperature-by-region](/docs/correlation-temperature-and-disaster-deaths.png)
 
-Here we can see the correlation of types of natural disasters with the temperature.
+Here we can see the correlation of _deaths by natural disasters_ with the _temperature_, foreach type of natural disaster.
 For earthquakes the correlation is very small at `0.028`, for extreme temperature events it is relatively high at `0.8`.
 
-However, when looking closer at specific types in specific countries, e.g. heatwaves deaths in France the correlation drops to `0.18` and in Spain even to `-0.49`
+However, when looking closer at specific disaster types in specific countries, e.g. heatwaves deaths in France, the correlation drops to `0.18`, and in Spain even to `-0.49`.
 This kinda contradicts scientific evidence which suggests that heatwaves increase in severity. 
 There is also the effect that when looking at the country level and disaster subtypes just very few recorded instances remain, and outlines are quite influential (thus the negative correlation in Spain).
 
