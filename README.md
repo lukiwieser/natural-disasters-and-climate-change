@@ -12,13 +12,13 @@ Our whole process is documented in the jupyter notebook [main.ipynb](main.ipynb)
 
 Here we can see the occurrences and deaths of disasters over time for each decade.
 
-The number of disasters is rising. However, this is likely subject to a reporting bias, since likey just more disasters are reported. The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur. However this could also be likely due to humans being better prepared for natural disasters, and not disasters being less severe.
+The number of disasters is rising. However, this is likely subject to a reporting bias, since likely just more disasters are reported. The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur. However this could also be likely due to humans being better prepared for natural disasters, and not disasters being less severe.
 
 ### Type of disaster
 
 ![disasters-by-type](/docs/deaths-by-type.png)
 
-Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest. A possible bias here could be that deaths by droughts and floods can be strongly dependent on political decisions, such as the [Russian famine of 1921-1922](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922), so floods & droughts might not inherently more severe on their own.
+Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest. A possible bias here could be that deaths by droughts and floods can be strongly dependent on political decisions, such as the [Russian famine of 1921-1922](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922), so floods & droughts might not inherently be more severe on their own.
 
 ### Disasters by region
 
@@ -26,11 +26,9 @@ Different types of disasters kill different amounts of people. Droughts and floo
 
 Asia has by far the most deaths by disasters, total deaths as well as deaths by population.
 
-We refer to the deaths per population as relative deaths.
-
 ### Disasters by country
 
-![deaths-and-type-by-country](/docs/deaths-and-type-by-country.png)
+![deaths-and-type-by-country](/docs/deaths-by-type-and-country.png)
 
 Here we look at a small selection of countries that are different to each other e.g. in their region or how developed they are.
 
