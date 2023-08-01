@@ -12,13 +12,13 @@ Our whole process is documented in the jupyter notebook [main.ipynb](main.ipynb)
 
 Here we can see the occurrences and deaths of disasters over time for each decade.
 
-The number of disasters is rising. However, this is likely subject to a reporting bias, since likey just more disasters are reported. The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur. However this could also be likely due to humans being better prepared for natural disasters, and not diasters being less severe.
+The number of disasters is rising. However, this is likely subject to a reporting bias, since likey just more disasters are reported. The deaths by disasters are sinking, we see that fewer apocalyptic disasters where millions of people die occur. However this could also be likely due to humans being better prepared for natural disasters, and not disasters being less severe.
 
 ### Type of disaster
 
 ![disasters-by-type](/docs/deaths-by-type.png)
 
-Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest. A possible bias here could be that deaths by droughts and floods can be strongly dependent on political decisions, so floods & droughts are not inherently more severe on their own.
+Different types of disasters kill different amounts of people. Droughts and floods are by far the deadliest. A possible bias here could be that deaths by droughts and floods can be strongly dependent on political decisions, such as the [Russian famine of 1921-1922](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922), so floods & droughts might not inherently more severe on their own.
 
 ### Disasters by region
 
@@ -42,8 +42,10 @@ Usually, droughts are the deadliest disasters. However, France has nearly no dea
 
 The temperature rises in all regions, with Europe being the most extreme.
 
-We use temperature anomalies as a measurement for temperature since they are supposedly more representative. Temperature anomalies are simply the temperature, but corrected by a baseline, in our case by the average temperature from Jan 1951 to Dec 1980. 
+We use temperature anomalies as a measurement for temperature since they are supposedly [more representative](https://www.ncei.noaa.gov/access/monitoring/global-temperature-anomalies). Temperature anomalies are simply the temperature, but corrected by a baseline, in our case by the average temperature from Jan 1951 to Dec 1980. 
 Additionally, we smoothed the temperature with lowess.
+
+
 
 ### Correlation of natural disasters and temperature
 
@@ -53,7 +55,7 @@ Here we can see the correlation of _deaths by natural disasters_ with the _tempe
 For earthquakes the correlation is very small at `0.028`, for extreme temperature events it is relatively high at `0.8`.
 
 However, when looking closer at specific disaster types in specific countries, e.g. heatwaves deaths in France, the correlation drops to `0.18`, and in Spain even to `-0.49`.
-This kinda contradicts scientific evidence which suggests that heatwaves increase in severity. 
+This kinda contradicts scientific evidence which suggests that [heatwaves increase in severity](https://climate.nasa.gov/effects/). 
 There is also the effect that when looking at the country level and disaster subtypes just very few recorded instances remain, and outlines are quite influential (thus the negative correlation in Spain).
 
 So here more research is necessary to reach substantial conclusions.
