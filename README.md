@@ -82,6 +82,6 @@ Finally, you can run the jupyter notebook [main.ipynb](main.ipynb) to reproduce 
 
 ## Credits
 
-This project was created by students as part of a lecture at the [Technical University of Vienna](https://www.tuwien.at/).
+This project was created by students as part of a lecture at the *Vienna University of Technology*.
 
 Sebastian Fürndraht, Hannes Rokitte, Paul Schmitt, Lukas Wieser · 24.01.2023
