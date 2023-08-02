@@ -75,8 +75,9 @@ More details are available in our jupyter notebook [main.ipynb](main.ipynb).
 One dataset that we use for our analysis, the *Emdat dataset*, is not allowed to be shared publicly. Thus for reproducing, it has to be manually downloaded.
 
 First, create an account and download the dataset from the [Emdat website](https://public.emdat.be/).
-Then put the dataset to the following location, with the exact filename:
-`data/raw/disaster/emdat_public_2022_12_22_full.xlsx`
+
+Next put the dataset to the following location, with the exact filename:
+`data/raw/disaster/emdat.xlsx`. We used the version from 2022-12-22, but newer versions should also be fine, since we exclude entries after 2020.
 
 Finally, you can run the jupyter notebook [main.ipynb](main.ipynb) to reproduce our results. Don't forget to check if you have the correct python version as specific in the notebook.
 
