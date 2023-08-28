@@ -15,12 +15,12 @@ __pycache__/
 **/.AppleDouble
 **/.LSOverride
 
-# Emdat Dataset
-data/raw/disaster/emdat_public_2022_12_22_full.xlsx
+# Emdat Dataset (includes old paths)
+data/disaster/*
 data/raw/disaster/*
 
 # Keep just folder for Emdat Dataset
-!data/raw/disaster/.gitkeep
+!data/disaster/.gitkeep
 
 # Processed Datasets (since this also includes emdat)
 data/processed/*
