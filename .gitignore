@@ -15,10 +15,10 @@ __pycache__/
 **/.AppleDouble
 **/.LSOverride
 
-# Emdat Dataset (includes old paths)
+# Emdat Dataset
 data/disaster/*
+# Include old path (to be on the safe side)
 data/raw/disaster/*
-
 # Keep just folder for Emdat Dataset
 !data/disaster/.gitkeep
 
